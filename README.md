@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm logandata459 👋
 
-<!--
-**logandata459/logandata459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems programmer based in Amsterdam. Most of my time goes into writing low-level utilities in Rust and C, debugging memory with perf/valgrind, and figuring out how to push more logic into WebAssembly runtimes.
 
-Here are some ideas to get you started:
+#### Current focus
+- Low-overhead CLI utilities and terminal tools in Rust
+- Sandboxed execution environments using WASM outside the browser
+- Digging into Linux networking internals and eBPF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Toolbox
+- **Core:** Rust, C, Linux, Git
+- **Target:** WebAssembly (wasmtime, wasmer), POSIX
+- **Debugging & Profiling:** gdb, valgrind, perf, strace
+
+#### Contact
+- Email: logandata459@proton.me
+- Matrix: `@logandata459:matrix.org`
+
+Always open to discussing systems architecture, memory safety, or PRs on my repos.
